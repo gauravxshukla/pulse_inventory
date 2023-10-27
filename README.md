@@ -34,7 +34,11 @@ To run this application locally on your machine, follow these steps:
 
 4. Open your browser and navigate to [http://localhost:3000](http://localhost:3000) to access the Pulse Inventory.
 
-Screenshots: 
+## Demo
+
+You can experience Pulse Inventory live by visiting the [Demo](https://pulse.gauravxshukla.me/) page.
+
+## Screenshots: 
 
 ![1](https://github.com/gauravxshukla/pulse_inventory/assets/82375003/fccba2a0-7f60-48a8-987a-8a2c1abfa50c)
 
